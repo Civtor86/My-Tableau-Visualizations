@@ -1,0 +1,7 @@
+echo "# My-Tableau-Visualizations" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://public.tableau.com/app/profile/vic.tor.b.sanchez
+git push -u origin main
